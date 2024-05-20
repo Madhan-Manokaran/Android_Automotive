@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">POI_Restaurants</string>
+    <style name="Theme.POI_Restaurants" parent="android:Theme.Material.Light.DarkActionBar"/>
+</resources>

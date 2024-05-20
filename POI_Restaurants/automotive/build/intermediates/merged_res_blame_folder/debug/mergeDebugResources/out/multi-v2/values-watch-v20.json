@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.randstad.poi_restaurants.automotive-mergeDebugResources-21:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\madhanm\\.gradle\\caches\\transforms-4\\5fd7eaa1d6e5fc3c9eb68fa16ee51a82\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

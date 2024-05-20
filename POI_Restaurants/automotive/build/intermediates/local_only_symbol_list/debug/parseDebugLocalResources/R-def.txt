@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+drawable baseline_favorite_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.POI_Restaurants
+xml android_app_desc

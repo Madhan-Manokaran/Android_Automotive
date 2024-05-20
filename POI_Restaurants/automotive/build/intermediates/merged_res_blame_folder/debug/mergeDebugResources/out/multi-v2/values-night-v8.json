@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.randstad.poi_restaurants.automotive-mergeDebugResources-21:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\madhanm\\.gradle\\caches\\transforms-4\\5fd7eaa1d6e5fc3c9eb68fa16ee51a82\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "253,323,407,491,587,689,791,885",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "318,402,486,582,684,786,880,969"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\madhanm\\.gradle\\caches\\transforms-4\\870260c94feee0ce044e84afd1da23ad\\transformed\\app-1.7.0-alpha02\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,104,154,202",
+                        "endColumns": "48,49,47,50",
+                        "endOffsets": "99,149,197,248"
+                    }
+                }
+            ]
+        }
+    ]
+}
