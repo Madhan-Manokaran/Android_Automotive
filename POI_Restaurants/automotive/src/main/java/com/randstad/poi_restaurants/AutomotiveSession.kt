@@ -6,7 +6,7 @@ import androidx.car.app.Session
 /**
  * MainSession class that extends Session to manage the creation of screens within the car app.
  */
-class POI_Session : Session() {
+class AutomotiveSession : Session() {
 
     /**
      * Creates and returns the initial screen of the car app when the session is created.

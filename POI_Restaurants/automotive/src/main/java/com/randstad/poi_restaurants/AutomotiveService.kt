@@ -7,7 +7,7 @@ import androidx.car.app.validation.HostValidator
 /**
  * MainService class that extends CarAppService to manage the car app's lifecycle and provide sessions.
  */
-class POI_Service : CarAppService() {
+class AutomotiveService : CarAppService() {
 
     /**
      * Creates a HostValidator that determines which hosts can connect to this car app.
@@ -26,6 +26,6 @@ class POI_Service : CarAppService() {
      */
     override fun onCreateSession(): Session {
         // Return a new instance of MainSession to manage the car app's session.
-        return POI_Session()
+        return AutomotiveSession()
     }
 }

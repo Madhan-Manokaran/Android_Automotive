@@ -33,7 +33,7 @@
             android:name="androidx.car.app.minCarApiLevel"
             android:value="1"/>
         <service
-            android:name=".POI_Service"
+            android:name=".AutomotiveService"
             android:exported="true">
             <intent-filter>
                 <action android:name="androidx.car.app.CarAppService"/>
