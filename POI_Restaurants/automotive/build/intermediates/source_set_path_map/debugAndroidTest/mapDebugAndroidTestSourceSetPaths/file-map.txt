@@ -1,6 +1,0 @@
-com.randstad.poi_restaurants.test.automotive-core-1.5.0-0 C:\Users\madhanm\.gradle\caches\transforms-4\062e5abd8fef40f50afa9b9334933626\transformed\core-1.5.0\res
-com.randstad.poi_restaurants.test.automotive-annotation-experimental-1.4.0-1 C:\Users\madhanm\.gradle\caches\transforms-4\f7e28580e229fbe2250b9b4602571071\transformed\annotation-experimental-1.4.0\res
-com.randstad.poi_restaurants.test.automotive-androidTest-2 C:\Users\madhanm\AndroidStudioProjects\POI_Restaurants\automotive\build\generated\res\resValues\androidTest\debug
-com.randstad.poi_restaurants.test.automotive-mergeDebugAndroidTestResources-3 C:\Users\madhanm\AndroidStudioProjects\POI_Restaurants\automotive\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.randstad.poi_restaurants.test.automotive-mergeDebugAndroidTestResources-4 C:\Users\madhanm\AndroidStudioProjects\POI_Restaurants\automotive\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.randstad.poi_restaurants.test.automotive-debugAndroidTest-5 C:\Users\madhanm\AndroidStudioProjects\POI_Restaurants\automotive\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

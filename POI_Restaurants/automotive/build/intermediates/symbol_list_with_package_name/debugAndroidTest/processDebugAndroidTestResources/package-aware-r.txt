@@ -1,3 +1,0 @@
-com.randstad.poi_restaurants.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

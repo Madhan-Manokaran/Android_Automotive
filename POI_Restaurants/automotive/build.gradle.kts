@@ -39,6 +39,19 @@ dependencies {
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
+
+    implementation("androidx.car.app:app:1.7.0-alpha02")
+    //implementation("androidx.car.app:car-app-core:1.3.0")
+
+    //For android auto specific functionality
+    //implementation("androidx.car.app:app-projected:1.7.0-alpha02")
+
+    //For Android Automotive Specific functionality
+    implementation("androidx.car.app:app-automotive:1.7.0-alpha02")
+
+    //For testing
+    testImplementation("androidx.car.app:app-testing:1.7.0-alpha02")
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
